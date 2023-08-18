@@ -3,7 +3,7 @@
 ## On my way to become a web developer ⌨ 
 
 - 🎒 I'm currently enrolled  at ELAC
-- 📖 I'm currently learning Java
+- 📖 I'm currently learning Python
 - 🦾 My Strength: Being able to learn and adapt quickly
 - 🥉 My Weakness: CSS 😤, but I'm working on it
 - 🥅 Future Goals: Learn Python, Java, C/C++
